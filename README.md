@@ -203,4 +203,4 @@ This repository serves as the official landing page for Exo-Calibre. The softwar
 **Get the most recent version of Exo-Calibre today!**
 
 ---
-**Last updated:** 2026-11-14 14:47:43 UTC
+**Last updated:** 2026-11-14 19:45:00 UTC
